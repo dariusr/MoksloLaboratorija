@@ -3,8 +3,8 @@
   Arduino programavimo pamokos
   <hr>
   
-  Dokumentacija< br>
-  Arduino komandų sąrašas< br>
+  Dokumentacija<p>
+  Arduino komandų sąrašas<p>
  Arduino bibliotekų sąrašas< br>
  Autoriaus bibliotekos< br>
  Kygos ir straipsniai< br>
