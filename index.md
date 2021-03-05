@@ -6,4 +6,4 @@ Dar čia paliesime spausdinimą 3D spausdintuvais, 3D detalių maketavimą bei r
 
 Yra sudėta daugybė nuorodų į internetines parduotuves, kur būtų galima visko nusipirkti.
 
-<a href="/pamokos/lessons.md">Arduino pamokos</a>
+<a href="MoksloLaboratorija/pamokos/lessons.md">Arduino pamokos</a>
