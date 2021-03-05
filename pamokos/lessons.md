@@ -3,11 +3,11 @@
   Arduino programavimo pamokos
   <hr>
   
-  Dokumentacija</ br>
-  Arduino komandų sąrašas</ br>
- Arduino bibliotekų sąrašas</ br>
- Autoriaus bibliotekos</ br>
- Kygos ir straipsniai</ br>
+  Dokumentacija< br>
+  Arduino komandų sąrašas< br>
+ Arduino bibliotekų sąrašas< br>
+ Autoriaus bibliotekos< br>
+ Kygos ir straipsniai< br>
  GyverCore - lengvas Arduino branduolys (core)</ br></ br>
   
   Įvadas į Arduino</ br>
