@@ -4,11 +4,11 @@
   <hr>
   
   Dokumentacija<p>
-  Arduino komandų sąrašas<p>
- Arduino bibliotekų sąrašas< br>
- Autoriaus bibliotekos< br>
- Kygos ir straipsniai< br>
- GyverCore - lengvas Arduino branduolys (core)</ br></ br>
+  Arduino komandų sąrašas<br>
+ Arduino bibliotekų sąrašas<br>
+ Autoriaus bibliotekos<br>
+ Kygos ir straipsniai<br>
+ GyverCore - lengvas Arduino branduolys (core)<br><br>
   
   Įvadas į Arduino</ br>
  Nuo autoriaus</ br>
