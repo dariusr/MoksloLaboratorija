@@ -3,20 +3,20 @@
   Arduino programavimo pamokos
   <hr>
   
-  Dokumentacija
-  Arduino komandų sąrašas
- Arduino bibliotekų sąrašas
- Autoriaus bibliotekos
- Kygos ir straipsniai
- GyverCore - lengvas Arduino branduolys (core)
+  Dokumentacija</ br>
+  Arduino komandų sąrašas</ br>
+ Arduino bibliotekų sąrašas</ br>
+ Autoriaus bibliotekos</ br>
+ Kygos ir straipsniai</ br>
+ GyverCore - lengvas Arduino branduolys (core)</ br></ br>
   
-  Įvadas į Arduino
- Nuo autoriaus
- Apie platformą
- „Geležies“ pajungimas, sąsajos
- Plokštės kontaktai
- Plokštės maitinimas
- Darbo pradžia
- Darbas su Arduino IDE
- Pirmoji programinė įranga, klaidos, DUK
+  Įvadas į Arduino</ br>
+ Nuo autoriaus</ br>
+ Apie platformą</ br>
+ „Geležies“ pajungimas, sąsajos</ br>
+ Plokštės kontaktai</ br>
+ Plokštės maitinimas</ br>
+ Darbo pradžia</ br>
+ Darbas su Arduino IDE</ br>
+ Pirmoji programinė įranga, klaidos, DUK</ br>
 </html>
