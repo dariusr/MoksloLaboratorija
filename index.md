@@ -5,3 +5,5 @@ Viskas kas yra susiją su elektronika, mechanika, elektra ar fizika čia yra sud
 Dar čia paliesime spausdinimą 3D spausdintuvais, 3D detalių maketavimą bei ruošimą spausdinimui.
 
 Yra sudėta daugybė nuorodų į internetines parduotuves, kur būtų galima visko nusipirkti.
+
+<a href="/pamokos/lessons.md">Arduino pamokos</a>
